@@ -6,17 +6,17 @@ function App() {
     <>
       <div className="App">
         <PersonCard lastName={"Doe"} firstName={"Jane"}
-          PersonCard age={45}
-          PersonCard hairColor={"Black"} />
+          age={45}
+          hairColor={"Black"} />
         <PersonCard lastName={"Smith"} firstName={"John"}
-          PersonCard age={88}
-          PersonCard hairColor={"Brown"} />
+          age={88}
+          hairColor={"Brown"} />
         <PersonCard lastName={"Fillmore"} firstName={"Millard"}
-          PersonCard age={50}
-          PersonCard hairColor={"Brown"} />
+          age={50}
+          hairColor={"Brown"} />
         <PersonCard lastName={"Smith"} firstName={"Maria"}
-          PersonCard age={62}
-          PersonCard hairColor={"Brown"} />
+          age={45}
+          hairColor={"Black"} />
       </div>
     </>
   );
